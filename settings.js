@@ -60,33 +60,33 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '0882007324218' //dana
-global.povo = '0882007324218' //ovo
-global.pgopay = '0882007324218' //gopay
-global.plinkaja = '0882007324218' //link aja
-global.ppulsa = '0882007324218' //telkomsel
-global.ppulsa2 = '085786211623' // kalau ada kartu lain isi aja
+global.pdana = '082144607416' //dana
+global.povo = '082144607416' //ovo
+global.pgopay = '082144607416' //gopay
+global.plinkaja = '082144607416' //link aja
+global.ppulsa = '082144607416' //telkomsel
+global.ppulsa2 = '082144607416' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/kosong'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6285810480036'
-global.namebot = 'raabotz_'
-global.nameown = 'diraarfz'
+global.nomorbot = '14508718932'
+global.nomorown = '6282144607416'
+global.namebot = 'jegabotz_'
+global.nameown = 'Anggaa-MD'
 
 /*============== BIODATA ==============*/
 global.umurown = '15'
-global.tinggalown = 'Jawa Tengah Cikamuning' 
+global.tinggalown = 'Sumbawa barat benete' 
 global.hobyown = 'Membikin Bot'
 global.sifatown = 'Baik Penolong Penyayang'
 global.agamaown = 'Islam'
 global.genderown = 'laki-laki'
 global.kelasown = '9'
-global.tanggallahirown = '05-𝐀𝐠𝐮𝐬𝐭𝐮𝐬-2022'
+global.tanggallahirown = '03-Febuari-2022'
 global.namarlown = 'Hamba Allah'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'krishosting' // nama github lu
+global.namagithub = 'hakaren' // nama github lu
 global.linkgithub = 'https://github.com/keposlur' // tarok link github lu
 
 /*============== APIKEY SIMPEL ==============*/
@@ -96,11 +96,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true]
+  ['6282144607416', 'AnggaMD', true],
+  ['6282144607416', 'AnggaMD', true],
+  ['6282144607416', 'AnggaMD', true],
+  ['6282144607416', 'AnggaMD', true],
+  ['6282144607416', 'AnggaMD', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -149,14 +149,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 © raabotz_ 」' //Main Watermark
-global.wm2 = '© raabotz_'
-global.wm3 = '© raabotz_ '
+global.wm = '                「 © jegaabotz_ 」' //Main Watermark
+global.wm2 = '© jegaabotz_'
+global.wm3 = '© jegaabotz_ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `© raabotz_`
-global.packname = '☂︎ raabotz_'
-global.author = '                「raabotz_ あ」'
+global.titlebot = `© jegaabotz_`
+global.packname = '☂︎ jegaabotz_'
+global.author = '                「jegaabotz_ あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -647,8 +647,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'By dirafz'
-global.stickauth = `© raabotz`
+global.stickpack = 'By AnggaMD'
+global.stickauth = `© jegaabotz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
